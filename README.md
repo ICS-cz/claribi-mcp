@@ -3,6 +3,7 @@
 [![PyPI](https://img.shields.io/pypi/v/claribi-mcp.svg)](https://pypi.org/project/claribi-mcp/)
 [![npm](https://img.shields.io/npm/v/@claribicom/mcp.svg)](https://www.npmjs.com/package/@claribicom/mcp)
 [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-com.claribi%2Fmcp--server-blue)](https://registry.modelcontextprotocol.io/v0.1/servers?search=com.claribi)
+[![smithery badge](https://smithery.ai/badge/darek/claribi)](https://smithery.ai/servers/darek/claribi)
 
 Public reference for the **clariBI** Model Context Protocol server, a
 hosted MCP endpoint that lets LLM clients sign users up, upload data,
