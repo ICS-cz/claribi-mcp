@@ -3,10 +3,10 @@
   "name": "com.claribi/mcp-server",
   "title": "clariBI",
   "description": "AI business intelligence: sign up, ingest data, run analyses, generate reports from any MCP client.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://claribi.com",
   "repository": {
-    "url": "https://github.com/ICS-cz/Claribi",
+    "url": "https://github.com/ICS-cz/claribi-mcp",
     "source": "github"
   },
   "remotes": [

@@ -5,9 +5,6 @@ endpoint at `https://claribi.com/mcp/v1/`) or the published SDKs
 (`claribi-mcp` on PyPI, `@claribicom/mcp` on npm) to
 `security@claribi.com`.
 
-Repository-wide policy lives at
-<https://github.com/ICS-cz/Claribi/blob/master/SECURITY.md>.
-
 ## Scope
 
 - `https://claribi.com/mcp/v1/` and its OAuth discovery endpoints
